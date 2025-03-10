@@ -1,0 +1,41 @@
+<!-- Why Choose us? -->
+    <section class="py-10">
+        <div class="2xl:container mx-auto">
+            <div class="w-[90%] mx-auto grid grid-cols-1">
+                <h1 class="text-[28px] leading-[20px] font-bold">Why Choose Us?</h1>
+                <p class="text-[20px] leading-[12px]">We use both original recipes and classic versions of famous food
+                    items.</p>
+            </div>
+            <div class="w-[90%] mx-auto">
+                <div class="grid grid-cols md:grid-cols-2 lg:grid-cols-3 gap-6 text-center">
+                    <div class="flex flex-row justify-center items-center">
+                        <img src="https://ik.imagekit.io/Prakashprojects/Food%20store%20Project/Why%20Choose%20Us/food-serve.png?updatedAt=1741536652270"
+                            alt="card1">
+                    </div>
+                    <h2>Food Service</h2>
+                    <p>Experience fine dining at the comfort of your home. All our orders are carefully packed and
+                        arranged to give you the nothing less than perfect.</p>
+                </div>
+                <div class="border p-6">
+                    <div class="flex flex-row justify-center items-center">
+                        <img src="https://ik.imagekit.io/Prakashprojects/Food%20store%20Project/Why%20Choose%20Us/offers-img.png?updatedAt=1741536641118"
+                            alt="">
+                    </div>
+                    <h2>Food Service</h2>
+                    <p>Experience fine dining at the comfort of your home. All our orders are carefully packed and
+                        arranged to give you the nothing less than perfect.</p>
+                </div>
+                <div class="border p-6">
+                    <div class="flex flex-row justify-center items-center">
+                        <img src="https://ik.imagekit.io/Prakashprojects/Food%20store%20Project/Why%20Choose%20Us/fruits-img.png?updatedAt=1741536644794"
+                            alt="Card-3">
+                    </div>
+                    <h2>Food Service</h2>
+                    <p>Experience fine dining at the comfort of your home. All our orders are carefully packed and
+                        arranged to give you the nothing less than perfect.</p>
+                </div>
+            </div>
+
+        </div>
+        </div>
+    </section>
